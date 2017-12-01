@@ -1,0 +1,16 @@
+{
+  "lastUpgradeScriptRun": "v3.2.0",
+  "appId": "d85734a2d533aae472269d193fab9a89322d1242",
+  "registration": {
+    "date": "2017-11-26T15:48:18.717Z",
+    "loginType": null,
+    "EULA": {
+      "status": "has_not_agreed",
+      "version": "0.0.0"
+    },
+    "email": null,
+    "name": null,
+    "status": "unregistered"
+  },
+  "userId": null
+}

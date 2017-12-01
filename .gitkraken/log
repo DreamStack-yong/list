@@ -1,0 +1,14 @@
+{
+  "log": [
+    {
+      "actionName": "app_settings_action_set",
+      "count": 9,
+      "totalMS": 6
+    },
+    {
+      "actionName": "registration_action_logout",
+      "count": 1,
+      "totalMS": 2
+    }
+  ]
+}
